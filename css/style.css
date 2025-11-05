@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../img/Camera-da-letto.jpg);
+    background-repeat: no-repeat;
+    background-size: 2200px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+
+}
+.lampadina{
+    transform: rotate(180deg);
+}
