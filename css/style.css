@@ -19,6 +19,13 @@ a{
     background-repeat: no-repeat;
     background-size: 2200px;
 }
+.opacity{
+    opacity: 0.3;
+}
+.title-main{
+    font-size: 3rem;
+    color: rgb(17, 32, 32);
+}
 .flex{
     display: flex;
     justify-content: flex-start;
@@ -44,4 +51,5 @@ a{
 }
 .bg-red{
     background-color: red;
+    
 }
